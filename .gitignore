@@ -1,0 +1,35 @@
+### Android ###
+# Built application files
+*.apk
+*.ap
+*.abb
+
+#files for the ART/Dalvic VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+release/
+
+# Gradle files
+.gradle/
+build/
+
+# local configuration file(sdk path,etc)
+local.properties 
+
+#etc
+caches/
+
+native/
+daemon/
+kotlin-profile/
+.idea/
+dists/
+*.jar
+*.json
